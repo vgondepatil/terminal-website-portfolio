@@ -1,0 +1,56 @@
+{
+  "ascii": [
+    "███████╗██╗  ██╗███████╗██╗     ██╗",
+    "██╔════╝██║  ██║██╔════╝██║     ██║",
+    "███████╗███████║█████╗  ██║     ██║",
+    "╚════██║██╔══██║██╔══╝  ██║     ██║",
+    "███████║██║  ██║███████╗███████╗███████╗",
+    "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
+  ],
+  "title": "WebShell",
+  "username": "visitor",
+  "hostname": "webshell",
+  "password": "050823",
+  "repoLink": "https://www.github.com/vgondepatil",
+  "social": {
+    "email": "gondepatilvarad@gmail.com",
+    "github": "vgondepatil",
+    "linkedin": "https://www.linkedin.com/in/varad-gondepatil"
+  },
+  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
+  "projects": [
+    [
+      "Code-Screenshot",
+      "REACT JS CODE Screenshots",
+      "https://code-screenshot-nine.vercel.app/"
+    ],
+    [
+      "Recipier",
+      "Recipe App",
+      "https://recipe-app-dun-eight.vercel.app/"
+    ]
+  ],
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
